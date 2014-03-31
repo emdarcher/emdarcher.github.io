@@ -1,0 +1,6 @@
+
+good reference site:
+http://diveintohtml5.info/semantics.html
+
+also this:
+http://adamdscott.com/semantic-html-for-html5-boilerplate/
