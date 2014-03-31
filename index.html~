@@ -31,24 +31,18 @@
 				</hgroup>
 				<nav>
 						<ul>
-							<li><a href="">home</a></li>						
+							<li><a href="index.html">home</a></li>						
 						</ul>
 				</nav>				
 									
 			</header>
 			
-       
         
-        
-        
-        
-        
-        
-        
-        
-        
+			<footer>
 
-
+				<p>Made by <a href="https://github.com/emdarcher">emdarcher</a> starting with <a href="https://github.com/h5bp/html5-boilerplate">HTML5 Boilerplate</a></p>			
+				<h5>LTC: DOGE: </h5>
+			</footer>        
 
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
