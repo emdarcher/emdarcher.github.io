@@ -26,6 +26,7 @@
         
 			<header>
 				<hgroup>
+						<img id="header_photo" src="img/emdarcher-logo1-128x128.png"></img>
 						<h1>This is emdarcher's github.io Page!</h1>
 						<h2>a page about emdarcher.</h2>
 				</hgroup>
@@ -36,12 +37,14 @@
 				</nav>				
 									
 			</header>
-			
+			<aside>
+					i am aside			
+			</aside>
         
 			<footer>
 
 				<p>Made by <a href="https://github.com/emdarcher">emdarcher</a> starting with <a href="https://github.com/h5bp/html5-boilerplate">HTML5 Boilerplate</a></p>			
-				<h5>LTC: DOGE: </h5>
+				<h5>LTC: LZtsSrsNSBThjDyeDFYG2yoyxt8UprdxYp DOGE: DEKJmjjHD6YXVXve2fYdmcDiBFEuTBFazi </h5>
 			</footer>        
 
 

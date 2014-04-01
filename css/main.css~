@@ -100,23 +100,28 @@ textarea {
 header {
 		background-color: #8dbf6d;
 		color: black;
-		margin: 0px;
+		margin: 3px  3px 3px 3px;
 		display: block;
 		border:solid 1px black;
 		border-radius: 3px;
 		font-family: monospace;
+	   text-align: center;
 }
 
 footer {
 		background-color:  	#8dbf6d;
 		color: black;
-		margin: 0px;
+		margin: 3px;
 		display: block;
 		border: solid 1px black;
       border-radius: 3px;	
       font-family: monospace;
+      padding: 3px;
 }
-
+#header_photo {
+		width: 128px;
+		height: 128px;	
+}
 
 
 
