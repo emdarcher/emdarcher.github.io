@@ -120,10 +120,22 @@ footer {
 }
 #header_photo {
 		width: 128px;
-		height: 128px;	
+		height: 128px;
+		border: darkgreen 3px solid;;	
+}
+nav li {
+		display: inline;
+		font-size: 18px;
+		border: solid 1px black;
+		padding:5px;
 }
 
-
+nav li a:hover {
+		display inline-block;
+		background-color: lightgreen;
+		
+		padding: 5px 0px 5px 0px;	
+}
 
 
 /* ==========================================================================

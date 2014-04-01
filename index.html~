@@ -26,20 +26,22 @@
         
 			<header>
 				<hgroup>
-						<img id="header_photo" src="img/emdarcher-logo1-128x128.png"></img>
+						<a href="index.html"><img id="header_photo" src="img/emdarcher-logo1-128x128.png"></img></a>
 						<h1>This is emdarcher's github.io Page!</h1>
 						<h2>a page about emdarcher.</h2>
 				</hgroup>
 				<nav>
-						<ul>
-							<li><a href="index.html">home</a></li>						
+						<ul><b>
+							<li><a href="index.html">home</a></li>
+							<li><a href="muspi_merol.html">muspI meroL</a></li>							
+							</b>							
 						</ul>
 				</nav>				
 									
 			</header>
-			<aside>
+			<!--<aside>
 					i am aside			
-			</aside>
+			</aside>-->
         
 			<footer>
 
